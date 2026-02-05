@@ -1,4 +1,4 @@
-# Hii 👋 I'm abc
+# Hii 👋 I'm Akhil
 
 ## 👩‍💻 About Me
 - 🎓 Computer Science & Engineering
